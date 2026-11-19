@@ -1,6 +1,6 @@
 # Fitting the topology of synthetic particle systems with a novel graph representation
 
-This repository contains the implementation for our work "Fitting the topology of synthetic particle systems via a novel graph representation" (doi.org/10.1016/j.commatsci.2026.115251).
+This repository contains the implementation for our work "Fitting the topology of synthetic particle systems via a novel graph representation" ([doi:10.1016/j.commatsci.2026.115251](https://doi.org/10.1016/j.commatsci.2026.115251)).
 
 It provides functionality to compute particle graphs on labeled images of particle systems, optimize their topology against a set of target persistence diagrams, and reconstruct optimized synthetic images with an improved connectivity and higher dimensional topology.
 
